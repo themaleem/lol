@@ -1,0 +1,6 @@
+This is the track of the things 
+to still be done in the development of this app
+
+- add customization feature for the shortened links
+- add proper readme
+- improve project based on simple django best practices 
