@@ -1,0 +1,9 @@
+# Django #
+.vscode
+*.log
+*.pot
+*.pyc
+__pycache__
+# .gitignore
+db.sqlite3
+media

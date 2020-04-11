@@ -12,8 +12,14 @@
 
 
 <body class="bg-light">
+  
+{% comment %}   
+  {% for link in links %}
+  <p> {{link.url}} -- {{link.id}} </p>    
+  {% endfor %}
+     {% endcomment %}
 
-<div class="container login">
+  <div class="container login">
             <div class="col-sm-4 offset-md-4">
 
 
